@@ -1,2 +1,3 @@
-myname="arjun"
-print(myname)
+Firstname="arjun"
+Lastname="vijayan"
+print(Firstnasme+""Lastname)
